@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Dharani Pulipaka
 
+**Computer Information Systems Professional | Technology & Software | Cybersecurity | Data & Analytics | SQL | Python**
 
-Welcome to my GitHub profile! I'm a **A technology professional** with a background spanning **data analytics, software development, cybersecurity, database engineering, and risk analysis**.
+Welcome to my GitHub profile! I'm a**technology professional** with a multidisciplinary background spanning **computer information systems, software development, cybersecurity, data analytics, database engineering, and risk analysis**.
 
 I enjoy working with data to uncover patterns, identify anomalies, improve decision-making, and translate complex technical information into meaningful business insights.
 
