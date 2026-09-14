@@ -172,7 +172,7 @@ I'm particularly interested in opportunities where **data, technology, security,
 ## 🤝 Let's Connect
 I'm always interested in connecting with professionals, collaborating on data projects, and learning from the broader Data Analytics, Business Intelligence, Cybersecurity, and Technology communities.
 
-📧 Email: dharanipulipaka2000@gmail.com
+📧 Email: dharanipulipaka@gmail.com
 💼 LinkedIn: linkedin.com/in/dharani-pulipaka-46ab57264
 💻 GitHub: github.com/Dha-pul
 
