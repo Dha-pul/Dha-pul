@@ -168,4 +168,11 @@ My goal is to continue developing as a **Data Analyst / Business Intelligence pr
 
 I'm particularly interested in opportunities where **data, technology, security, and business decision-making intersect**.
 
-## 🤝 Let's Con
+## 🤝 Let's Connect
+I'm always interested in connecting with professionals, collaborating on data projects, and learning from the broader Data Analytics, Business Intelligence, Cybersecurity, and Technology communities.
+
+📧 Email: dharanipulipaka2000@gmail.com
+💼 LinkedIn: linkedin.com/in/dharani-pulipaka-46ab57264
+💻 GitHub: github.com/Dha-pul
+
+⭐ Thanks for visiting my profile!
