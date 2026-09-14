@@ -119,7 +119,7 @@ Explored quantitative approaches for assessing operational risk, system vulnerab
 
 ## 🚀 Research Projects on GitHub
 
-I use GitHub to document and develop projects related to:
+I'm gonna use GitHub to document and develop projects related to:
 
 * 🔐 Cybersecurity Research
 * 🌐 Computer Networks
