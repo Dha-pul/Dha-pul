@@ -1,181 +1,152 @@
 # 👋 Hi, I'm Dharani Pulipaka
 
-**Computer Information Systems Professional | Technology & Software | Cybersecurity | Data & Analytics | SQL | Python**
+**Computer Science Researcher | Computer Information Systems | Cybersecurity | Computer Networks | Data & Systems**
 
-Welcome to my GitHub profile! I'm a **technology professional** with a multidisciplinary background spanning **computer information systems, software development, cybersecurity, data analytics, database engineering, and risk analysis**.
+Welcome to my GitHub profile! I am a **Computer Science and Information Systems professional with research interests spanning cybersecurity, computer networks, data-intensive systems, privacy, and intelligent computing**.
 
-I enjoy solving technical problems, working with data, developing software solutions, analyzing complex systems, and exploring how technology can improve security, efficiency, and decision-making.
+My work focuses on exploring how computing systems can be designed, analyzed, and secured through **experimental research, data-driven methods, system modeling, and applied computational techniques**. I am particularly interested in interdisciplinary research that connects computing with emerging technologies and real-world systems.
 
-## 🔎 About Me
+## 🔬 Research Interests
 
-I hold a **Master of Science in Computer Information Systems** from Rivier University and a **Bachelor of Computer Applications** from ASN Degree College.
+### Primary Research Areas
 
-My professional and academic experience has allowed me to work across data-intensive and technology-focused environments, including:
+* 🔐 **Cybersecurity, Privacy & Digital Forensics**
+* 🌐 **Computer Networks & Network Security**
+* 🛡️ **Threat Modeling & Security Analysis**
+* 🔏 **Cryptographic Integrity & Secure Data Transmission**
+* 📡 **Network Protocol Security**
+* 📊 **Data-Driven Risk & Anomaly Detection**
 
-* 📊 Data analysis and business intelligence
-* 🗄️ SQL and relational database engineering
-* 🐍 Python and data processing
-* 📈 Power BI and Tableau dashboards
-* 🔐 Cybersecurity and network defense
-* 🛡️ Fraud, risk, and anomaly analysis
-* 💻 Java and backend software development
-* ☁️ Cloud and data technologies
-* 🔍 Threat modeling and security analysis
+### Interdisciplinary Research Areas
 
-## 🛠️ Technical Skills
+* 📱 **Mobile & Embedded Systems**
+* 🏥 **Health Informatics & Digital Health**
+* 🤖 **Robotics & Intelligent Systems**
+* ☁️ **Cloud & Distributed Computing**
+* 🧠 **Machine Learning & Pattern Recognition**
+* 🗄️ **Data & Database Systems**
 
-### 📊 Data & Analytics
+## 🧪 Research & Technical Focus
 
-* SQL
+My research and technical interests include:
+
+* Cryptographic integrity verification for data transmission
+* Real-time streaming data analysis and anomaly detection
+* Network protocol analysis and security
+* Threat modeling and security architecture
+* Privacy and access-control mechanisms
+* Quantitative risk analysis
+* Database systems and query optimization
+* Pattern recognition and predictive modeling
+* Security analytics and fraud detection
+* Data-driven approaches to complex computing systems
+
+## 🎓 Academic Background
+
+I hold a **Master of Science in Computer Information Systems** from **Rivier University** and a **Bachelor of Computer Applications (BCA)** from **ASN Degree College**.
+
+My graduate studies and applied research have provided experience across **computer systems, cybersecurity, networking, databases, software engineering, data analytics, and quantitative analysis**.
+
+## 💻 Technical Skills
+
+### Programming & Computing
+
 * Python
+* Java
 * R
-* Power BI
-* Tableau
-* Exploratory Data Analysis (EDA)
-* Data Cleaning & Transformation
-* Data Wrangling
-* Statistical Analysis
-* Data Mining
-* Anomaly Detection
-* Predictive Analytics
-* Large Dataset Analysis
+* SQL
+* Object-Oriented Programming
+* Scripting
+* Web Application Development
 
-### 🗄️ Databases & Engineering
+### Security & Networks
 
-* Relational Database Design
-* SQL Query Optimization
-* Database Schema Design
-* Multi-table Data Modeling
-* Stored Procedures
-* Data Retrieval & Transformation
-* Performance Optimization
-
-### 🔐 Cybersecurity & Networking
-
+* Network Security
 * Network Defense
 * Security Protocols
-* Cryptographic Integrity Verification
+* Cryptographic Verification
 * Threat Modeling
 * Vulnerability Assessment
 * Endpoint Security
 * Access Control
-* Network Traffic & Packet Analysis
-* Security Risk Analysis
-* Fraud Detection
+* Network Traffic Analysis
+* Anomaly Detection
 
-### 💻 Programming & Development
+### Data & Computational Methods
 
-* Python
-* Java
-* Object-Oriented Programming
-* SQL
-* Web Application Development
-* Custom Scripting
-* Software Development Lifecycle (SDLC)
+* Data Analysis
+* Data Mining
+* Exploratory Data Analysis
+* Statistical Analysis
+* Data Preprocessing
+* Machine Learning
+* Clustering
+* Feature Extraction
+* Predictive Modeling
+* Large-Scale Data Analysis
 
-### ☁️ Tools & Technologies
+### Systems & Tools
 
 * Microsoft Azure
-* Git & GitHub
-* Jira
 * Power BI
 * Tableau
+* Git & GitHub
+* Jira
 * GenRocket
+* Relational Database Systems
 
-## 💼 Professional Experience
+## 🔬 Selected Research & Applied Work
 
-### Data Manager / Data Operator — Fraud & Risk Control Room
+### 🔐 System Security & Threat Mitigation
 
-**Aristocrat Interactive | 2025 – Present**
+Explored threat modeling, zero-trust security architectures, access-control mechanisms, vulnerability assessment, and cryptographic integrity techniques for high-security computing environments.
 
-Working with high-volume operational data and real-time monitoring environments, with a focus on **data integrity, anomaly detection, fraud analysis, risk monitoring, and actionable insights**.
+### 🌐 Network Protocol Security
 
-Key areas include:
+Investigated secure data transmission, network traffic, packet-level analysis, protocol security, and mechanisms for protecting data against interception and integrity violations.
 
-* Monitoring large-scale streaming data in a 24/7 operational environment
-* Analyzing transactional anomalies and user behavior patterns
-* Supporting fraud and risk mitigation through data-driven analysis
-* Managing data operational frameworks and reporting
-* Evaluating security and operational risks
-* Translating tracking metrics into insights for cross-functional teams
+### 🗄️ Database Systems & Optimization
 
-### Independent Data & Software Consultant
+Designed relational database schemas and analyzed multi-table structures, indexing strategies, relational algebra, and SQL query optimization for data-intensive computing environments.
 
-**2024 – 2025**
+### 📈 Predictive Data Mining & Pattern Recognition
 
-* Performed data extraction, preprocessing, cleaning, and analysis
-* Conducted structural anomaly analysis on client datasets
-* Developed custom scripts and automation tools
-* Designed database structures and reporting models
-* Provided technical solutions based on individual client requirements
+Applied supervised and unsupervised learning techniques, clustering, feature extraction, and anomaly detection to identify patterns and irregularities within complex datasets.
 
-### Junior Java Developer
+### ⚠️ Quantitative Risk Analysis
 
-**Techmorgonite Software Solutions LLC | 2021 – 2023**
+Explored quantitative approaches for assessing operational risk, system vulnerabilities, data-flow integrity, and security-related decision-making within complex information systems.
 
-* Developed backend application modules using Java and OOP
-* Created optimized SQL queries and database scripts
-* Worked with relational databases and stored procedures
-* Participated in debugging, testing, troubleshooting, and system optimization
-* Contributed to software development lifecycle activities
+## 🚀 Research Projects on GitHub
 
-## 🔬 Research & Applied Projects
+I use GitHub to document and develop projects related to:
 
-My academic and technical work has included projects involving:
+* 🔐 Cybersecurity Research
+* 🌐 Computer Networks
+* 🛡️ Network & System Security
+* 🔏 Cryptographic Applications
+* 📊 Anomaly Detection
+* 🤖 Machine Learning & Pattern Recognition
+* 🗄️ Database Systems
+* ☁️ Cloud Computing
+* 📱 Mobile & Embedded Computing
+* 🏥 Health Informatics
+* 🤖 Robotics & Intelligent Systems
 
-**🔐 System Security & Threat Mitigation**
-Threat modeling, zero-trust architectures, access controls, vulnerability assessment, and cryptographic integrity mechanisms.
+## 🌱 Current Research Direction
 
-**🌐 Network & Protocol Security**
-Network traffic analysis, secure data transmission, protocol evaluation, and cryptographic verification.
+I am interested in developing research that combines **computer security, networking, data analysis, and intelligent computational methods** to address real-world problems.
 
-**🗄️ Database Engineering**
-Relational schema design, query optimization, indexing strategies, relational algebra, and large-scale data retrieval.
+My long-term research interests include **secure distributed systems, real-time anomaly detection, network intelligence, privacy-preserving computing, cybersecurity analytics, and data-driven security frameworks**.
 
-**📈 Predictive Data Mining**
-Supervised and unsupervised learning, clustering, feature extraction, anomaly detection, and predictive risk modeling.
+## 🤝 Research & Collaboration
 
-**⚠️ Quantitative Risk Analysis**
-Data-driven approaches for evaluating operational risk, system vulnerabilities, and data-flow integrity.
+I am interested in connecting with **researchers, faculty members, graduate students, and professionals** working in Computer Science and related fields.
 
-## 📜 Certifications
+I am particularly open to research collaboration in:
 
-* **CompTIA Data+**
-* **Google Data Analytics Professional Certificate**
-* **HackerRank Python (Basic)**
-* **GenRocket Certified Engineer – Level 1**
-* **Cisco Junior Cybersecurity Analyst Career Path**
-* **Cisco Network Defense & Cyber Threat Management**
-* **Cisco Endpoint Security & Introduction to Cybersecurity**
-* **Cisco Networking Devices & Networking Basics**
-* **Cisco Operating Systems Basics**
+**Cybersecurity • Computer Networks • Privacy • Digital Forensics • Data Systems • Machine Learning • Distributed Systems • Health Informatics • Robotics**
 
-## 🚀 What I'm Building
+---
 
-I'm using GitHub to build and document projects focused on:
-
-📊 **Data Analytics & Business Intelligence**
-🗄️ **SQL & Database Analytics**
-🐍 **Python Data Analysis**
-📈 **Power BI & Tableau Dashboards**
-🔍 **Fraud & Anomaly Detection**
-🔐 **Cybersecurity Analytics**
-☁️ **Cloud & Data Solutions**
-🤖 **Predictive Analytics & Machine Learning**
-
-## 🎯 Career Focus
-
-My goal is to continue developing as a **Data Analyst / Business Intelligence professional**, combining my background in **data analytics, software engineering, cybersecurity, and risk analysis** to solve complex business problems.
-
-I'm particularly interested in opportunities where **data, technology, security, and business decision-making intersect**.
-
-## 🤝 Let's Connect
-I'm always interested in connecting with professionals, collaborating on data projects, and learning from the broader Data Analytics, Business Intelligence, Cybersecurity, and Technology communities.
-
-📧 Email: dharanipulipaka@gmail.com
-
-💼 LinkedIn: linkedin.com/in/dharani-pulipaka-46ab57264
-
-💻 GitHub: github.com/Dha-pul
-
-⭐ Thanks for visiting my profile!
+⭐ **Thank you for visiting my GitHub profile.**
