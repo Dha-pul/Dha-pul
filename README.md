@@ -4,11 +4,11 @@
 
 Welcome to my GitHub profile! I'm a **technology professional** with a multidisciplinary background spanning **computer information systems, software development, cybersecurity, data analytics, database engineering, and risk analysis**.
 
-I enjoy working with data to uncover patterns, identify anomalies, improve decision-making, and translate complex technical information into meaningful business insights.
+I enjoy solving technical problems, working with data, developing software solutions, analyzing complex systems, and exploring how technology can improve security, efficiency, and decision-making.
 
 ## 🔎 About Me
 
-I hold a **Master of Science in Computer Information Systems** from Rivier University and a **Bachelor of Computer Applications** from .
+I hold a **Master of Science in Computer Information Systems** from Rivier University and a **Bachelor of Computer Applications** from ASN Degree College.
 
 My professional and academic experience has allowed me to work across data-intensive and technology-focused environments, including:
 
